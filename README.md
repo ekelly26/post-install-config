@@ -18,11 +18,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Acknowledge Agent Panel vs Admin Panel
+- In Admin Panel, configure roles (Supreme Admin), Departments (Ticket visibility, Help Desk vs SysAdmins vs Networking), and Teams (Ex: Online Banking)
+- In User Settings in Admin Panel, allow anyone to create tickets by unchecking "unregistered users can create tickets" and require registration login to create tickets
+- Configure and Add New Agents (workers) in the Admin Portal - - Jane (Dept: SysAdmins) and John (Dept:Support)
+- Switch to Agent Panel and configure new users (customers) - - Karen, Ken
+- Switch back to Admin Panel and configure SLA - - SEV-A, SEV-B, and SEV-C
+- Configure help topics (for when users create tickets) -- Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, and Other
 
 <h2>Configuration Steps</h2>
 
