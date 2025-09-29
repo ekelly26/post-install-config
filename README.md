@@ -53,9 +53,13 @@ In User Settings in Admin Panel, allow anyone to create tickets by unchecking "u
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1201" height="827" alt="image" src="https://github.com/user-attachments/assets/903c4539-ed8b-47a6-9d74-2e1637eaacfc" />
+ <img width="1214" height="822" alt="image" src="https://github.com/user-attachments/assets/cafdaa76-e22e-47e1-bee4-83507ca7437c" />
+ <img width="1196" height="826" alt="image" src="https://github.com/user-attachments/assets/05e3e63f-dffc-437e-bec9-b12f8deaa42f" />
+ <img width="1201" height="529" alt="image" src="https://github.com/user-attachments/assets/e7f653b5-d957-4cb5-ae43-82c45dbff2a9" />
+ <img width="1283" height="710" alt="image" src="https://github.com/user-attachments/assets/9c2ecc66-3170-4ceb-a787-b160160f4f43" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Switch back to the Admin Portal and configure SLAs (SEV-A, SEV-B, SEV-C). Then, configure Help Topics (For when users create tickets) (Business Critical Outage, Personal Computer Issues, Equipment Reset, Other)
 <br />
